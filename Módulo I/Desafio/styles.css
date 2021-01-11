@@ -1,0 +1,23 @@
+#salarios {
+  align-content: space-around;
+  border-color: steelblue;
+  border-style: solid;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+}
+
+#setores {
+  align-content: space-around;
+  border-color: steelblue;
+  border-style: solid;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+}
+
+#salariosSetor {
+  align-content: space-around;
+  border-color: steelblue;
+  border-style: solid;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+}
